@@ -27,7 +27,7 @@ const Home = () => {
         />
         <meta
           property="og:image"
-          content="https://media.licdn.com/dms/image/D4E03AQGdDVoLj5d4Dg/profile-displayphoto-shrink_800_800/0/1681182608104?e=1694044800&v=beta&t=B5mn_qKXoKU2XT_LqLAHPzbQiFG-EXKo2ctQ9BY5kAY"
+          content="https://alfredo-arizmende.vercel.app/_next/image?url=%2FAlfredoAbout.webp&w=1200&q=75"
         />
         <meta property="og:image:alt" content="Alfredo Arizmende" />
         <meta property="og:image:type" content="image/png" />
