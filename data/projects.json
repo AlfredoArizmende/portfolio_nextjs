@@ -23,8 +23,8 @@
 
   {
     "id": 4,
-    "name": "Promptopia",
-    "image": "/PromptopiaApp.webp",
+    "name": "Promptopia App",
+    "image": "/PromptopiaApp.WEBP",
     "description": "Esta app tiene como finalidad mostrar comentarios de diferentes usuarios y cada uno podrá crear nuevos mensajes, modificar y eliminar los ya existentes. Para esta app se utilizó MongoDB para almacenar la información, Next Auth para hacer login con Google, ReactJS, Next.js junto con sus características como Server & Client Components, Routing, Data Fetching, Next.js API Endpoints y SEO & Metadata, TypeScript y Tailwind CSS para el estilo.",
     "link": "https://project-promptopia-2t3porpno-alfredoarizmende.vercel.app/"
   }
