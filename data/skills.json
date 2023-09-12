@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "image": "/react.WEBP"
+  },
+  {
+    "id": 2,
+    "name": "Tailwind",
+    "image": "/tailwind.WEBP"
+  },
+  {
+    "id": 3,
+    "name": "Nextjs",
+    "image": "/nextjs.WEBP"
+  },
+  {
+    "id": 4,
+    "name": "CSS",
+    "image": "/CSS3.webp"
+  },
+  {
+    "id": 5,
+    "name": "HTML",
+    "image": "/HTML5.webp"
+  },
+  {
+    "id": 6,
+    "name": "JavaScript",
+    "image": "/javascript1.WEBP"
+  },
+  {
+    "id": 7,
+    "name": "WordPress",
+    "image": "/WordPress1.WEBP"
+  },
+  {
+    "id": 8,
+    "name": "Elementor",
+    "image": "/Elementor1.WEBP"
+  },
+  {
+    "id": 9,
+    "name": "Thrive",
+    "image": "/Thrive-Themes1.WEBP"
+  },
+  {
+    "id": 10,
+    "name": "DIVI",
+    "image": "/DIVI1.WEBP"
+  },
+  {
+    "id": 11,
+    "name": "ClickFunnels",
+    "image": "/ClickFunnels.webp"
+  },
+  {
+    "id": 12,
+    "name": "Nodejs",
+    "image": "/nodejs.webp"
+  },
+  {
+    "id": 13,
+    "name": "Redux",
+    "image": "/Redux.WEBP"
+  },
+  {
+    "id": 14,
+    "name": "PostgreSQL",
+    "image": "/PostgreSQL.webp"
+  },
+  {
+    "id": 15,
+    "name": "MaterialUI",
+    "image": "/material-ui.webp"
+  },
+  {
+    "id": 16,
+    "name": "GitHub",
+    "image": "/GitHub1.webp"
+  }
+]
