@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sitio Web Ocean Reef Blue",
+    "image": "/OBRSite.WEBP",
+    "description": "Sitio web profesional creado para dar a conocer un servicios de “estacionamiento” para barcos mediante el uso de boyas que además tiene como objetivo cuidar los ecosistemas marinos, fue creado mediante las tecnologías Next.js, React y Tailwind CSS.",
+    "link": "https://ocean-reef-blue.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "Sitio Web Fotógrafa Daniela",
+    "image": "/DaniSite.WEBP",
+    "description": "Sitio web profesional creado para dar a conocer la larga trayectoria de esta talentosa fotógrafa además de que por medio de este, también da a conocer sus servicios, galerías y testimonios de su trabajo. Este sitio fue creado con WordPress y Elementor.",
+    "link": "https://danielasan.com/"
+  },
+  {
+    "id": 3,
+    "name": "Página Coach Elizabeth León",
+    "image": "/LizSite.webp",
+    "description": "Página web creada con el objetivo de hacer que muchas personas entraran y se registraran en un taller online con el fin de dar información de valor y al final poner en marcha una estrategia de ventas. Esta página fue creada con WordPress y Elementor para el diseño, WebinarJam para transmitir en vivo y ActiveCampaign para almacenar todos los contactos.",
+    "link": "https://leonelizabeth.com/"
+  }
+]
