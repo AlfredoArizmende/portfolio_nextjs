@@ -1,5 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
+import { SocialIcon } from "react-social-icons";
 import Link from "next/link";
 import Image from "next/image";
 
