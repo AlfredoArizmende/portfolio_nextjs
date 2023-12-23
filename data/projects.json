@@ -23,9 +23,16 @@
     "urlGithub": "https://github.com/AlfredoArizmende/project_promptopia",
     "link": "https://project-promptopia-2t3porpno-alfredoarizmende.vercel.app"
   },
-
   {
     "id": 4,
+    "name": "Metaverse Madness",
+    "image": "/Metaversus-project.PNG",
+    "description": "Esta one page esta hecha en Next.js 14, se utiliza Framer Motion para dar todos los efectos y animaciones a textos e imágenes para hacer que la página se muy dinámica e interactiva, se utiliza Tailwind CSS para el diseño.",
+    "urlGithub": "https://github.com/AlfredoArizmende/metaversus",
+    "link": "https://metaversus-nine-delta.vercel.app"
+  },
+  {
+    "id": 5,
     "name": "Acme Dashboard Financiero",
     "image": "/AcmeDashboard.PNG",
     "description": "Esta aplicación web cuenta con una página de inicio, inicio de sesión, una página con datos recientes y métricas, páginas protegidas mediante autenticación y la capacidad de los usuarios para agregar, editar y eliminar facturas. La app tiene una base de datos en PostgreSQL y utiliza las últimas funciones de Next.js 14 (Fetching Data, Static and Dynamic Rendering, Streaming, Server Actions, Metadata, entre otras funciones), se utiliza Tailwind CSS para el diseño.",
