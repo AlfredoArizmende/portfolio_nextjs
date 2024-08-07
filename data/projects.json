@@ -37,6 +37,6 @@
     "image": "/AcmeDashboard.PNG",
     "description": "Esta aplicación web cuenta con una página de inicio, inicio de sesión, una página con datos recientes y métricas, páginas protegidas mediante autenticación y la capacidad de los usuarios para agregar, editar y eliminar facturas. La app tiene una base de datos en PostgreSQL y utiliza las últimas funciones de Next.js 14 (Fetching Data, Static and Dynamic Rendering, Streaming, Server Actions, Metadata, entre otras funciones), se utiliza Tailwind CSS para el diseño.",
     "urlGithub": "https://github.com/AlfredoArizmende/nextjs-dashboard",
-    "link": "https://nextjs-dashboard-five-dun-58.vercel.app"
+    "link": "https://project-acme.vercel.app/"
   }
 ]
